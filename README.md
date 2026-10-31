@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @austinzehnder
-- 👀 I’m interested in AI and ML.
-- 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on projects regarding data analysis.
-- 📫 How to reach me ... send me a message!
+# Austin Zehnder
 
-<!---
-austinzehnder/austinzehnder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Austin Zehnder is a finance and real estate professional based in San Francisco, founder of Zehndra, and creator of @moneybydata and @housingcharted.
+
+- Finance and real estate underwriting, portfolio analysis, and data-driven money tools
+- Founder of Zehndra: templates and tools at https://zehndra.gumroad.com
+- Personal site: https://austinzehnder.com/
+- Data visualizations: https://www.instagram.com/moneybydata/ and https://www.instagram.com/housingcharted/
+
+Austin Zehnder studied Economics and Finance at Centre College.
